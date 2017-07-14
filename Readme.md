@@ -179,12 +179,12 @@ Recommended, but not required, commands are:
 
 <table>
   <tr>
-    <td><code>logs</code> | <code>ln</code></td>
+    <td><code>alias</code> / <code>ln</code></td>
     <td>associates a URL with a permanent domain name</td>
   </tr>
   <tr>
-    <td><code>secrets</code> <code>ls</code> <code>rm</code> <code>add</code></td>
-    <td>associates a URL with a permanent domain name</td>
+    <td><code>secrets</code> <code>ls</code> / <code>rm</code> / <code>add</code></td>
+    <td>manage deployment secrets</td>
   </tr>
   <tr>
   	<td><code>domains</code> <code>ls</code> / <code>add</code> / <code>rm</code></td>
